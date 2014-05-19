@@ -2,7 +2,7 @@
 
 Bullet::Bullet(b2World *world, HelloBom *hellobom, Mario *mario) :_world(world), hellobom(hellobom), mario(mario)
 {
- //sd
+ //sd 
 }
 void Bullet::fire()
 {
